@@ -1,133 +1,134 @@
-# Python 
-Module 1: Basics-I
+# Python Basics
+Module 1:
 
-1.	Python Introduction. 
-2.	Python History.
-3.	Python applications.
-4.	Python IDE
-5.	Python Text editors
-6.	Python Installation 
-7.	Keywords 
-8.	Variables 
-9.	Identifiers 
-10.	Literals
-11.	Comments and Docstring 
-12.	What is Input 
-13.	Data Types Introduction 
-14.	Int Datatype 
-15.	Int Methods
-16.	String Datatype 
-17.	String Index & Slicing Using Positive & Negative Index. 
-18.	String Methods 
-19.	Complex datatype
-20.	Complex methods
-21.	Float datatype
-22.	Float methods
-23.	Boolean Datatype 
-24.	List Datatype
-25.	List Methods
-26.	Slice a List Using Positive & Negative Index 
-27.	How To Take Input for List 
-28.	List Advantages 
-29.	Tuple Datatype 
-30.	Tuple Methods 
-31.	Tuple a List Using Positive & Negative Index  
-32.	How to take input for tuples 
-33.	Why tuples are faster than list 
-34.	Set datatype 
-35.	Set Methods 
-36.	How to take Input for Set 
-37.	Set Advantages and Disadvantages 
-38.	Dictionary data type 
-39.	Dictionary Methods 
-40.	Frozenset Datattype
-41.	Frozenset methods
+	1.	Python Introduction. 
+	2.	Python History.
+	3.	Python applications.
+	4.	Python IDE
+	5.	Python Text editors
+	6.	Python Installation 
+	7.	Keywords 
+	8.	Variables 
+	9.	Identifiers 
+	10.	Literals
+	11.	Comments and Docstring 
+	12.	What is Input 
+	13.	Data Types Introduction 
+	14.	Int Datatype 
+	15.	Int Methods
+	16.	String Datatype 
+	17.	String Index & Slicing Using Positive & Negative Index. 
+	18.	String Methods 
+	19.	Complex datatype
+	20.	Complex methods
+	21.	Float datatype
+	22.	Float methods
+	23.	Boolean Datatype 
+	24.	List Datatype
+	25.	List Methods
+	26.	Slice a List Using Positive & Negative Index 
+	27.	How To Take Input for List 
+	28.	List Advantages 
+	29.	Tuple Datatype 
+	30.	Tuple Methods 
+	31.	Tuple a List Using Positive & Negative Index  
+	32.	How to take input for tuples 
+	33.	Why tuples are faster than list 
+	34.	Set datatype 
+	35.	Set Methods 
+	36.	How to take Input for Set 
+	37.	Set Advantages and Disadvantages 
+	38.	Dictionary data type 
+	39.	Dictionary Methods 
+	40.	Frozenset Datattype
+	41.	Frozenset methods
 
-Module 2: Basics-II
-1.	Type casting & Type conversion 
-2.	Flow control statements 
-3.	Conditional control statements 
-4.	Simple if statement 
-5.	if else statement 
-6.	if elif else statement 
-7.	nested if statement 
-8.	Repetitive statements 
-9.	For loop 
-10.	While loop 
-11.	Nested For loop 
-12.	Loop Control Statements 
-13.	break statement 
-14.	continue statement 
-15.	pass statement 
-16.	for else & while else statement
-17.	Operators in python
-18.	Arithmetic operators 
-19.	Assignment operators 
-20.	Comparison operators 
-21.	Logical or Boolean Operators 
-22.	Bitwise Operators
-23.	Membership operators 
-24.	Identity Operators 
-25.	Operator precedence & Associativity 
-26.	Operators used for Strings 
-27.	Operators used for List 
-28.	Operators used for Tuples 
-29.	Operators used for Set 
-30.	Operators used for Dictionary
+Module 2: 
+	1.	Type casting & Type conversion 
+	2.	Flow control statements 
+	3.	Conditional control statements 
+	4.	Simple if statement 
+	5.	if else statement 
+	6.	if elif else statement 
+	7.	nested if statement 
+	8.	Repetitive statements 
+	9.	For loop 
+	10.	While loop 
+	11.	Nested For loop 
+	12.	Loop Control Statements 
+	13.	break statement 
+	14.	continue statement 
+	15.	pass statement 
+	16.	for else & while else statement
+	17.	Operators in python
+	18.	Arithmetic operators 
+	19.	Assignment operators 
+	20.	Comparison operators 
+	21.	Logical or Boolean Operators 
+	22.	Bitwise Operators
+	23.	Membership operators 
+	24.	Identity Operators 
+	25.	Operator precedence & Associativity 
+	26.	Operators used for Strings 
+	27.	Operators used for List 
+	28.	Operators used for Tuples 
+	29.	Operators used for Set 
+	30.	Operators used for Dictionary
 
-Module 1: Basics-III
-1.	Functions Introduction 
-2.	Types of arguments in functions 
-3.	Scope of a variable 
-4.	LEGB rule 
-5.	Global vs Nonlocal 
-6.	Built in Functions Introduction 
-7.	Lambda Function 
-8.	Print Function 
-9.	Map Function 
-10.	Filter Function 
-11.	What are Modules 
-12.	Types of Modules 
-13.	Built in modules 
-14.	math module
-15.	string module 
-16.	random module 
-17.	Array introduction 
-18.	Array indexing 
-19.	Array Slicing 
-20.	Methods on array 
-21.	Built in functions on arrays 
-22.	operators used for arrays 
-23.	file handling
-24.	comprehension techniques
-25.	Exception handling
+Module 3: 
+	1.	Functions Introduction 
+	2.	Types of arguments in functions 
+	3.	Scope of a variable 
+	4.	LEGB rule 
+	5.	Global vs Nonlocal 
+	6.	Built in Functions Introduction 
+	7.	Lambda Function 
+	8.	Print Function 
+	9.	Map Function 
+	10.	Filter Function 
+	11.	What are Modules 
+	12.	Types of Modules 
+	13.	Built in modules 
+	14.	math module
+	15.	string module 
+	16.	random module 
+	17.	Array introduction 
+	18.	Array indexing 
+	19.	Array Slicing 
+	20.	Methods on array 
+	21.	Built in functions on arrays 
+	22.	operators used for arrays 
+	23.	file handling
+	24.	comprehension techniques
+	25.	Exception handling
 
-Module 3: Intermediate
-1.	Object oriented programming 
-2.	Why we need oops 
-3.	OOPs concepts
-4.	Class & Object 
-5.	Inheritance 
-6.	Operator overloading
-7.	Method overloading
-8.	Method overriding 
-9.	Polymorphism 
-10.	Encapsulation 
-11.	Name Mangling 
-12.	Data Hiding 
-13.	Abstraction 
-14.	Static variable vs Instance variable 
-15.	Instance method & Class Method & Static method 
-16.	Dunder methods 
-17.	How to create Dunder methods 
-
-Module 4: Python Advanced
-1.	Threading
-2.	Magic Methods
-3.	Generators
-4.	Decorators
-5.	Regular Expressions
-6.	Tkinter
+Intermediate
+Module 4: 
+	1.	Object oriented programming 
+	2.	Why we need oops 
+	3.	OOPs concepts
+	4.	Class & Object 
+	5.	Inheritance 
+	6.	Operator overloading
+	7.	Method overloading
+	8.	Method overriding 
+	9.	Polymorphism 
+	10.	Encapsulation 
+	11.	Name Mangling 
+	12.	Data Hiding 
+	13.	Abstraction 
+	14.	Static variable vs Instance variable 
+	15.	Instance method & Class Method & Static method 
+	16.	Dunder methods/Magic Methods/Special Methods
+	17.	How to create Dunder methods 
+ 
+Advanced
+Module 5:  
+	1.	Threading
+	2.	Generators
+	4.	Decorators
+	5.	Regular Expressions
+	6.	Tkinter
 
 
 Data Structure and Algorithms
@@ -277,6 +278,7 @@ Data Structure and Algorithms
 28. Bellman Ford, strongly connected component
 	Bellman Ford, strongly connected component
 	28.1 Bellman Ford
+    
 Leetcode Video Solutions
 	1. Two Sum | Leetcode Easy.
 	2. Valid Sudoku | Leetcode Medium.
