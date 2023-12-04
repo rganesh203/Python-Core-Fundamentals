@@ -44,6 +44,7 @@ Module 1:
 	41.	Frozenset methods
 
 Module 2: 
+
 	1.	Type casting & Type conversion 
 	2.	Flow control statements 
 	3.	Conditional control statements 
@@ -74,8 +75,9 @@ Module 2:
 	28.	Operators used for Tuples 
 	29.	Operators used for Set 
 	30.	Operators used for Dictionary
-
+ 
 Module 3: 
+
 	1.	Functions Introduction 
 	2.	Types of arguments in functions 
 	3.	Scope of a variable 
