@@ -1,4 +1,6 @@
 # Python Basics
+![image](https://github.com/rganesh203/Python-Core-Fundamentals/assets/68594076/90260676-1caf-4fa9-8138-6c141cdf9d4c)
+
 Module 1:
 
 	1.	Python Introduction. 
